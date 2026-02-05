@@ -1,1 +1,3 @@
-Proyecto de Administrador de pacientes de veterianaria, conectado en el backend junto a Render y en el frontend con Netlify, permitiendo usar todas las opciones del sitio web diseñado como: crear cuenta, registar pacientes, eliminar pacientes, editar perfil, cambiar contraseña y cerrar sesion. Este proyecto forma parte del curso Código con Juan de Udemy
+Proyecto de Administrador de pacientes de veterianaria, conectado en el backend junto a Render y en el frontend con Netlify, permitiendo usar todas las opciones del sitio web diseñado como: crear cuenta, registar pacientes, eliminar pacientes, editar perfil, cambiar contraseña y cerrar sesion. 
+
+Este proyecto forma parte del curso Código con Juan de Udemy.
